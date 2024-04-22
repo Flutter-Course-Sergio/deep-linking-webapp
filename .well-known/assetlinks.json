@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sergiobarreras.miscelaneos",
+      "sha256_cert_fingerprints": [
+        "67:DF:D6:28:9A:78:A9:95:EB:8C:73:BC:59:76:0E:5A:89:45:50:E6:D8:CD:D3:81:AE:A3:97:1E:98:B6:5C:5C"
+      ]
+    }
+  }
+]
